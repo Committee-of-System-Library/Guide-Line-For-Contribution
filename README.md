@@ -62,6 +62,7 @@ issue에서 다양한 의견을 공유하고, 추가되거나 수정되어야하
   (#issue-number) 내용 요약
 ```
  - master <- develop PR 생성 시 develop에 merge된 pr 목록을 내용에 적어주세요.
+ - master, develop branch에는 commit할 수 없습니다.
  - master는 prod에 배포하는 브랜치이기 떄문에 주의해주세요.
 <br>
 
