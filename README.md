@@ -2,7 +2,7 @@
 
 
 
-경북대학교 컴퓨터학부 Committee Of System Library(시도위)의 프로젝트에 기여해주셔서 감사합니다.
+경북대학교 컴퓨터학부 **Committee Of System Library(시도위)** 의 프로젝트에 기여해주셔서 감사합니다.
 
 아래 사항을 참고해주세요.
 
@@ -64,7 +64,7 @@ issue에서 다양한 의견을 공유하고, 추가되거나 수정되어야하
  - master <- develop PR 생성 시 develop에 merge된 pr 목록을 내용에 적어주세요.
  - master는 prod에 배포하는 브랜치이기 떄문에 주의해주세요.
 <br>
-<br>
+
 ## 코드 리뷰 규칙
 
 [코드 리뷰 참고 글](https://tech.kakao.com/2022/03/17/2022-newkrew-onboarding-codereview/)을 읽어주세요
