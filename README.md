@@ -52,7 +52,8 @@ issue에서 다양한 의견을 공유하고, 추가되거나 수정되어야하
 <br>
 
 ## branch 전략
-기본적으로 master-develop branch가 존재하며 PR 요청 branch는 **develop**입니다
+기본적으로 master-develop branch가 존재하며 PR merge를 요청하는 branch는 **develop**입니다<br>
+dev에서 분기한 branch의 이름은 **feature/이슈넘버 or xxx**, **fix/이슈넘버 or xxx** , **refactor/xxx** 로 지정해주세요
 <br>
 - PR을 Merge 하기 위해선 반드시 1명 이상의 **Approve**가 필요합니다.
 - PR은 **Sqush and merge** 옵션으로 merge합니다
