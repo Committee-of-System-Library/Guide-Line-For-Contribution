@@ -116,6 +116,7 @@ xxx 쿠폰 발행을 만족하기 위해....
 [구글 코딩 컨벤션](https://github.com/google/styleguide)을 따라주세요
 <br>
 - JAVA: https://github.com/google/styleguide/blob/gh-pages/intellij-java-google-style.xml
+- Python: https://peps.python.org/pep-0008/
 - Other: ...
 <br><br>
 Intellij의 경우 컨벤션 auto-setting 방법이 존재하며 세팅을 해놓는 것을 추천드립니다<br>
